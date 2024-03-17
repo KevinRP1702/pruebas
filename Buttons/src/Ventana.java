@@ -29,7 +29,7 @@ public Ventana() {
 			this.setLocation(200,200);
 			this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 			this.setResizable(true);
-			this.setTitle("Click me");
+			this.setTitle("hola");
 			this.setMinimumSize(new Dimension(250,250));
 			this.setMaximumSize(new Dimension(1000,750));
 			this.setLocationRelativeTo(null);
