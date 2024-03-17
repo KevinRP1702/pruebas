@@ -140,13 +140,7 @@ public Ventana() {
 	@Override
 	public void mouseEntered(MouseEvent e) {
 		// TODO Auto-generated method stub
-		Random rand = new Random();
-		float r = rand.nextFloat();
-		float g = rand.nextFloat();
-		float b = rand.nextFloat();
-		
-		Color randomColor = new Color(r, g, b);
-		pnlBotones.setBackground(randomColor);
+	
 	}
 
 	@Override
